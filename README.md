@@ -1,3 +1,5 @@
+[data used available on this Kaggle database.](https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database/data)
+
 <h2>
   〰️ CNN for automated diagnosis of respiratory diseases in audio files
 </h2>
