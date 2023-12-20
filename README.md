@@ -1,7 +1,7 @@
 [Data used available on this Kaggle Respiratory Sound Database.](https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database/data)
 
 <h2>
-  〰️ CNN for automated diagnosis of respiratory diseases in audio files
+CNN for automated diagnosis of respiratory diseases in audio files
 </h2>
 
 Respiratory sounds play a crucial role in assessing respiratory well-being and identifying respiratory ailments. The sound emitted when a person breathes is directly related to air movement, changes within lung tissue and the position of secretions within the lung. For instance, the presence of wheezing is a common indication of obstructive airway conditions such as asthma or chronic obstructive pulmonary disease (COPD).
